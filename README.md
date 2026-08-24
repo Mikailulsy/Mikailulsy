@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Mikail 👋
 
-<!--
-**Mikailulsy/Mikailulsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineering Student · Full-Stack & Mobile Developer**
 
-Here are some ideas to get you started:
+I build pragmatic, user-focused web and mobile products with **TypeScript**, **React**, **React Native / Expo**, and **Supabase**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+
+- Cross-platform product development
+- Frontend systems and responsive interfaces
+- Backend services, authentication, data modelling, and REST APIs
+- Turning ideas into polished MVPs
+
+## Selected work
+
+- **Cüzdanım** — A cross-platform personal-finance platform for budgeting, subscriptions, goals, and insights.
+- **Castly** — A two-sided casting marketplace across web and mobile.
+- **Vitrincim** — An AI SaaS for premium e-commerce product visuals.
+- **VORTEX** — A modern streaming-platform product prototype.
+
+## Tech
+
+`TypeScript` · `React` · `Next.js` · `React Native` · `Expo` · `Supabase` · `PostgreSQL` · `.NET` · `Tailwind CSS`
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/mikailulusoy/)
