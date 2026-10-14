@@ -1,6 +1,6 @@
 # Hi, I'm Mikail 👋
 
-**Software Engineering Student · Full-Stack & Mobile Developer**
+**Software Engineering  · Full-Stack & Mobile Developer**
 
 I build pragmatic, user-focused web and mobile products with **TypeScript**, **React**, **React Native / Expo**, and **Supabase**.
 
